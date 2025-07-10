@@ -1,0 +1,50 @@
+{
+    "objectsData": [
+        {
+            "colors": [
+                {
+                    "objID": "Game_Envionment_1",
+                    "colorValue": "933838FF"
+                },
+                {
+                    "objID": "Game_Characters_4",
+                    "colorValue": "E06B0CFF"
+                },
+                {
+                    "objID": "Game_Management_6",
+                    "colorValue": "76187BFF"
+                },
+                {
+                    "objID": "Game_HUD_10",
+                    "colorValue": "D6B300FF"
+                }
+            ],
+            "styles": [
+                {
+                    "objID": "Game_Envionment_1",
+                    "styleType": 1
+                },
+                {
+                    "objID": "Game_Characters_4",
+                    "styleType": 1
+                },
+                {
+                    "objID": "Game_Management_6",
+                    "styleType": 1
+                },
+                {
+                    "objID": "Game_HUD_10",
+                    "styleType": 1
+                }
+            ],
+            "showComponents": [],
+            "sceneName": "Game"
+        },
+        {
+            "colors": [],
+            "styles": [],
+            "showComponents": [],
+            "sceneName": "Menu"
+        }
+    ]
+}
