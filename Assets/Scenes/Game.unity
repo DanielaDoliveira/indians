@@ -1647,7 +1647,7 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
-  platform: 1
+  platform: 0
   jump: {fileID: 8300000, guid: b6835724f2cb44b099c866b1ef1c7dd8, type: 3}
 --- !u!82 &1329534415
 AudioSource:
@@ -2609,8 +2609,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyDataList:
   - {fileID: 11400000, guid: 28390dfb6f4e947859ab631f72acde63, type: 2}
-  - {fileID: 11400000, guid: 792e6721af4ca47d4b4618cf180918ee, type: 2}
   - {fileID: 11400000, guid: 91991873175774ba2884de3bffa0f46a, type: 2}
+  - {fileID: 11400000, guid: 792e6721af4ca47d4b4618cf180918ee, type: 2}
   spawnPoint: {fileID: 629794548}
   spawnInterval: 3
 --- !u!4 &1858987926

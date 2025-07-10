@@ -1,6 +1,12 @@
 {
     "objectsData": [
         {
+            "colors": [],
+            "styles": [],
+            "showComponents": [],
+            "sceneName": "Menu"
+        },
+        {
             "colors": [
                 {
                     "objID": "Game_Envionment_1",
@@ -39,12 +45,6 @@
             ],
             "showComponents": [],
             "sceneName": "Game"
-        },
-        {
-            "colors": [],
-            "styles": [],
-            "showComponents": [],
-            "sceneName": "Menu"
         }
     ]
 }

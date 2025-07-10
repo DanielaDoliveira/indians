@@ -13,9 +13,9 @@ public class EnemySpawner : MonoBehaviour
         InvokeRepeating(nameof(CheckAndSpawn), 1f, spawnInterval);
     }
 
-    void SpawnEnemy()
+    void SpawnEnemy(int numberOfEnemies)
     {
-        EnemyData data = enemyDataList[Random.Range(0, enemyDataList.Length)];
+        EnemyData data = enemyDataList[Random.Range(0, numberOfEnemies)];
 
         currentEnemy = Instantiate(data.prefab, spawnPoint.position, Quaternion.identity);
         Enemy enemy = currentEnemy.GetComponent<Enemy>();
@@ -27,7 +27,7 @@ public class EnemySpawner : MonoBehaviour
     {
         if (currentEnemy == null)
         {
-            SpawnEnemy();
+            SpawnEnemy(2);
         }
     }
 }
