@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using DG.Tweening;
+using Infrastructure;
+
 namespace GuaresQuest.UI
 {
     public class MainMenu : MonoBehaviour

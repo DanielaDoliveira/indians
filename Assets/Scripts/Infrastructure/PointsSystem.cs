@@ -1,7 +1,7 @@
 using TMPro;
 using UnityEngine;
 
-namespace GuaresQuest.UI
+namespace Infrastructure
 {
     public class PointsSystem
     {

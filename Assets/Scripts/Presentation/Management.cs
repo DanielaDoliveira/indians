@@ -5,6 +5,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using GuaresQuest.UI;
+using Infrastructure;
 using Sirenix.OdinInspector;
 
 public class Management : MonoBehaviour

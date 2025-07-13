@@ -16,10 +16,10 @@ MonoBehaviour:
   folderRules:
   - folderName: Scripts
     folderColor: {r: 0.7607844, g: 0.25490198, b: 0.04705883, a: 1}
-    fullPath: 
+    fullPath: Assets/Scripts
     icon: {fileID: 2800000, guid: e8f773ed12919704f8da008b216e3427, type: 3}
     applyToAllFolders: 1
-    applyColorToSubfolders: 1
+    applyColorToSubfolders: 0
     applyIconToSubfolders: 0
     materialColor: 0
   - folderName: Scenes
@@ -193,6 +193,46 @@ MonoBehaviour:
   - folderName: png 1
     folderColor: {r: 0.7075472, g: 0.18356179, b: 0.18356179, a: 1}
     fullPath: Assets/Sprites/png 1
+    icon: {fileID: 0}
+    applyToAllFolders: 0
+    applyColorToSubfolders: 0
+    applyIconToSubfolders: 0
+    materialColor: 0
+  - folderName: DI
+    folderColor: {r: 0.67448074, g: 0, b: 0.6886792, a: 1}
+    fullPath: Assets/Scripts/DI
+    icon: {fileID: 0}
+    applyToAllFolders: 0
+    applyColorToSubfolders: 0
+    applyIconToSubfolders: 0
+    materialColor: 0
+  - folderName: Domain
+    folderColor: {r: 1, g: 0.8314502, b: 0, a: 1}
+    fullPath: Assets/Scripts/Domain
+    icon: {fileID: 0}
+    applyToAllFolders: 0
+    applyColorToSubfolders: 0
+    applyIconToSubfolders: 0
+    materialColor: 0
+  - folderName: Infrastructure
+    folderColor: {r: 0.11671257, g: 0, b: 1, a: 1}
+    fullPath: Assets/Scripts/Infrastructure
+    icon: {fileID: 0}
+    applyToAllFolders: 0
+    applyColorToSubfolders: 0
+    applyIconToSubfolders: 0
+    materialColor: 0
+  - folderName: Presentation
+    folderColor: {r: 1, g: 0.39200455, b: 0, a: 1}
+    fullPath: Assets/Scripts/Presentation
+    icon: {fileID: 0}
+    applyToAllFolders: 0
+    applyColorToSubfolders: 0
+    applyIconToSubfolders: 0
+    materialColor: 0
+  - folderName: Tests
+    folderColor: {r: 1, g: 0, b: 0.17380905, a: 1}
+    fullPath: Assets/Scripts/Tests
     icon: {fileID: 0}
     applyToAllFolders: 0
     applyColorToSubfolders: 0
